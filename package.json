@@ -1,0 +1,19 @@
+{
+  "name": "hexa-question-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.26.0",
+    "dotenv": "^16.3.1",
+    "gpt-3-encoder": "^1.1.4",
+    "langchain": "^0.0.96",
+    "pdf-parse": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
